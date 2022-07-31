@@ -1,3 +1,5 @@
+[中文](https://github.com/goldenduo/TestCat/blob/main/README_zh.md)
+
 # <img src="https://cdn.jsdelivr.net/gh/goldenduo/TestCat/R/icon.svg" width="30" height="30"/> Test cat
 
 Android automated test suite. A tool to help you implement automated testing with JavaScript, without ROOT permission. Deeply adapted to Android, the best Android automated testing tool.
