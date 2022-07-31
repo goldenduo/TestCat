@@ -1,6 +1,6 @@
 # <img src="https://cdn.jsdelivr.net/gh/goldenduo/TestCat/R/icon.svg" width="30" height="30"/> 测试猫 
 
-安卓自动化测试套件。用JavaScript创造您自己的自动化测试工具，无须ROOT权限。深度适配安卓，最好用的安卓自动化测试工具。
+安卓自动化测试套件。用JavaScript帮助您实现自动化测试的工具，无须ROOT权限。深度适配安卓，最好用的安卓自动化测试工具。
 
 <img src="R/demo.gif" />
 
@@ -18,3 +18,10 @@
 - **实时操控：**  自研快速图片识别引擎，识别图片耗时小于0.1秒。
 - **无需root：** 手机无需ROOT便可以流畅使用。
 - **易学易用**：  测试猫脚本简单易学易用，一分钟学会，一分钟使用，共计两分钟即可编成高质量脚本。
+
+
+## 打赏
+
+请为测试猫点星
+
+![request](https://cdn.jsdelivr.net/gh/goldenduo/AGB/R/please.gif)
