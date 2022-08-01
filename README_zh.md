@@ -2,7 +2,7 @@
 
 安卓自动化测试套件。用JavaScript帮助您实现自动化测试的工具，无须ROOT权限。深度适配安卓，最好用的安卓自动化测试工具。
 
-<img src="R/demo.gif" />
+<img src="https://cdn.jsdelivr.net/gh/goldenduo/TestCat/R/demo.gif" />
 
 # 下载
 [Windows](https://ghproxy.com/https://github.com/goldenduo/TestCat/releases/latest/download/testcat_win.zip) | [MacOS](https://ghproxy.com/https://github.com/goldenduo/TestCat/releases/latest/download/testcat_macos.zip)
