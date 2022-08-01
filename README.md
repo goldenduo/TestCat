@@ -4,7 +4,7 @@
 
 Android automated test suite. A tool to help you implement automated testing with JavaScript, without ROOT permission. Deeply adapted to Android, the best Android automated testing tool.
 
-<img src="R/demo.gif" />
+<img src="https://cdn.jsdelivr.net/gh/goldenduo/TestCat/R/demo.gif" />
 
 # download
 [Windows](https://ghproxy.com/https://github.com/goldenduo/TestCat/releases/latest/download/testcat_win.zip) | [MacOS](https://ghproxy.com/https://github.com/goldenduo/TestCat/releases/latest/download/testcat_macos.zip)
