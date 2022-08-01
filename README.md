@@ -7,7 +7,7 @@ Android automated test suite. A tool to help you implement automated testing wit
 <img src="R/demo.gif" />
 
 # download
-[Windows](https://ghproxy.com/https://github.com/goldenduo/TestCat/releases/latest/download/testcat_win.zip) | [MacOS](https://ghproxy.com/https:/ /github.com/goldenduo/TestCat/releases/latest/download/testcat_macos.zip)
+[Windows](https://ghproxy.com/https://github.com/goldenduo/TestCat/releases/latest/download/testcat_win.zip) | [MacOS](https://ghproxy.com/https://github.com/goldenduo/TestCat/releases/latest/download/testcat_macos.zip)
 
 
 
